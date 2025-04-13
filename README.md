@@ -20,7 +20,7 @@ Desenvolver um modelo preditivo para estimar o tempo médio diário de tela com 
 ## 🔍 Análise Exploratória
 
 ### Correlações Principais
-![Heatmap de Correlação](https://i.imgur.com/heatmap_screentime.png)
+![Heatmap de Correlação](https://github.com/maxMitsuya/streamlit_screen_time/blob/main/corr.png)
 *Relações entre variáveis do dataset*
 
 **Insights**:
@@ -39,7 +39,7 @@ Desenvolver um modelo preditivo para estimar o tempo médio diário de tela com 
 | Regressão Linear | 0.35 | 0.82 |
 
 ### Importância das Features
-![Feature Importance](https://i.imgur.com/feature_importance_screentime.png)
+![Feature Importance](https://github.com/maxMitsuya/streamlit_screen_time/blob/main/feature_importance.png)
 *Contribuição de cada variável nas previsões*
 
 ## 📱 Dashboard Interativo
